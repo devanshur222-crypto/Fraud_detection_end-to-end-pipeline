@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\devan\OneDrive\Fraud_detection_project\Fraud_detection_end-to-end-pipeline\S3
